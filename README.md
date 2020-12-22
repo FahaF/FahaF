@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there
+### How are you ? I am in the sky . 
+## Stay safe !
 
-<!--
-**FahaF/FahaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="center" alt="yo" width="800" src="https://i.pinimg.com/originals/22/d2/db/22d2dbe64acdd55a38980e5267a39a1b.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahaf&label=Profile%20views&color=0e75b6&style=flat" alt="fahaf" /> </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahaf&show_icons=true&locale=en" alt="fahaf" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahaf&" alt="fahaf" /></p>
