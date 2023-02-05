@@ -1,6 +1,4 @@
-### Hi there
-### How are you ? I am in the sky . 
-## Stay safe !
+### Hi !
 
 
 <img align="center" alt="yo" width="800" src="https://i.pinimg.com/originals/22/d2/db/22d2dbe64acdd55a38980e5267a39a1b.gif">
